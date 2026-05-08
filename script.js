@@ -52,7 +52,7 @@ async function getWeather(){
 
   catch(error){
 
-    alert(" problem smajh nhii aa rhi hai");
+    alert(" Dya kuch to gad bad hai...?");
 
     loading.style.display = "none";
 
